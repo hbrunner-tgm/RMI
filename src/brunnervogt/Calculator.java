@@ -1,4 +1,4 @@
-package brunner;
+package brunnervogt;
 
 import java.math.BigDecimal;
 
