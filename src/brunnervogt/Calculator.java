@@ -5,7 +5,6 @@ import java.math.BigDecimal;
 /**
  * Interface für Calculator
  * @author helmuthbrunner
- *
  */
 
 public interface Calculator {
