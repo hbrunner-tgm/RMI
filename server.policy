@@ -1,0 +1,3 @@
+grant codeBase "file:C:\Users\Andi6444\workspace\RMI\src" {
+    permission java.security.AllPermission;
+};
