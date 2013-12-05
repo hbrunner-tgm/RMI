@@ -1,16 +1,3 @@
-/* Grants permission to run Derby and access all      */
-/* databases under the Derby system home              */
-/* when it is specified by the system property             */
-/* Derby.system.home                                        */
-
-/* Note Derby.system.home must be an absolute pathname */
-
-/* grant codeBase "file:/Users/helmuthbrunner/Desktop/Schule2013/sew/RMI" { */
-    /* permission java.security.AllPermission; */
-/* }; */
-
-
-// Standard extensions get all permissions by default
 
 grant {
 	permission java.security.AllPermission;
