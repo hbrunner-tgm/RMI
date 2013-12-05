@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Grants permission to run Derby and access all      */
 /* databases under the Derby system home              */
 /* when it is specified by the system property             */
@@ -6,5 +7,8 @@
 /* Note Derby.system.home must be an absolute pathname */
 
 grant codeBase "file:/Users/helmuthbrunner/Desktop/Schule2013/sew/RMI" {
+=======
+grant codeBase "file:C:\Users\Andi6444\workspace\RMI\src" {
+>>>>>>> 69a13fb57bbce18354ef1963d3a57bd405264841
     permission java.security.AllPermission;
 };
